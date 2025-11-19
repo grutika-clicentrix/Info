@@ -24,6 +24,12 @@ function App() {
 
         Back-button
       </button>
+      <button
+        onClick={handleClick}
+      >
+
+        Front-button
+      </button>
     </div>
   );
 }
