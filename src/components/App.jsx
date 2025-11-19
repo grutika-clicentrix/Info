@@ -16,7 +16,6 @@ function App() {
       <button
         onClick={handleClick}
       >
-
         Submit
       </button>
       <button
