@@ -12,6 +12,7 @@ function App() {
       <h1>{headingText}</h1>
       <input type="text" placeholder="What's your name?" />
       <input type="password" placeholder="Enter Name" />
+      <input type="text" placeholder="Enter Email" />
       <button
         onClick={handleClick}
       >
